@@ -7,6 +7,9 @@ I am a Flutter Developer and Designer! If you would like to check me out, <a hre
 
 <a href ="https://www.youtube.com/channel/UCurQRmT17EyOIrdPseiastg"> <img width="50" align='left' src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png"> </a>
 
+### 🔭 I’m currently working on ...
+I am currently developing two mobile apps. 
+
 <!--
 **GhostWalker562/GhostWalker562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

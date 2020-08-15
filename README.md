@@ -6,7 +6,7 @@ I am a Flutter Developer and Designer! If you would like to check me out, <a hre
 ### 📫 How to reach me:
 Reach out to my email *(pvu2002@outlook.com)* or add me on Discord  *(Moon#3587)*
 
-### Social Media
+### Social Media 🌱
 
 <a href ="https://www.youtube.com/channel/UCurQRmT17EyOIrdPseiastg"> <img width="50" align='left' src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png"> </a>
 <a href ="https://wakatime.com/@GhostWalker562"> <img width="50" align='left' src="https://cdn.worldvectorlogo.com/logos/wakatime.svg"> </a>

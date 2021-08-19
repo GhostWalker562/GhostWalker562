@@ -1,4 +1,4 @@
-# [![MOONSDONTBURN Header](https://i.imgur.com/1QHjcUZ.png)](https://moonsdontburn.design/)
+# [![MOONSDONTBURN Header](https://i.imgur.com/mpT1eXV.gif)](https://moonsdontburn.design/)
 
 ### Hi there 👋,
 I am a Flutter Developer and Designer! If you would like to check me out, <a href="https://moonsdontburn.design/">visit my portfolio.</a>

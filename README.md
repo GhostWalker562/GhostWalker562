@@ -4,7 +4,7 @@
 I am a Flutter Developer and Designer! If you would like to check me out, <a href="https://moonsdontburn.design/">visit my portfolio.</a>
 
 ### 📫 How to reach me:
-Reach out to my email *(pvu2002@outlook.com)* or add me on Discord  *(Moon#3587)*
+Reach out to my email *(moonsdontburn@outlook.com)* or add me on Discord  *(Moon#3587)*
 
 ---
 

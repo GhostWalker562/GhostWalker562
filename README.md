@@ -1,10 +1,10 @@
-# [![MOONSDONTBURN Header](https://i.imgur.com/nFhRED0.png)](https://moonsdontburn.design/)
+# [![MOONSDONTBURN Header](https://i.imgur.com/nFhRED0.png)](https://moonsdontburn.com/)
 
 ### Hi there 👋,
-I am a Flutter Developer and Designer! If you would like to check me out, <a href="https://moonsdontburn.design/">visit my portfolio.</a>
+I am a Frontend Developer and Designer! If you would like to check me out, <a href="https://moonsdontburn.com/">visit my portfolio.</a>
 
 ### 📫 How to reach me:
-Reach out to my email *(moonsdontburn@outlook.com)* or add me on Discord  *(Moon#3587)*
+Reach out to my email *(philip@moonsdontburn.design)* or add me on Discord  *(Moon#3587)*
 
 ---
 
